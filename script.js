@@ -2,7 +2,7 @@ var states = [
     { name: 'ALABAMA', abbreviation: 'AL', taxAmount: 5},
     { name: 'ALASKA', abbreviation: 'AK', taxAmount: 0},
     { name: 'ARIZONA', abbreviation: 'AZ', taxAmount: 4.54},
-    { name: 'ARKANSAS', abbreviation: 'AR' 7.0},
+    { name: 'ARKANSAS', abbreviation: 'AR', taxAmount: 7.0},
     { name: 'CALIFORNIA', abbreviation: 'CA', taxAmount: 13.3},
     { name: 'COLORADO', abbreviation: 'CO', taxAmount: 4.63},
     { name: 'CONNECTICUT', abbreviation: 'CT', taxAmount: 6.7},
